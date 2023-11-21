@@ -21,7 +21,7 @@ const BasicInfo = () => {
           {/* Profile Description */}
           <div className="text-lg leading-relaxed">
             <p>
-              &emsp;はじめまして。金沢大学大学院電子情報通信学専攻1年の高窪俊企です。現在、私は
+              &emsp;aaaaaaaaaaaaa金沢大学大学院電子情報通信学専攻1年の高窪俊企です。現在、私は
               <a
                 className="text-primary hover:underline" // Styling for the link
                 href="http://www.li-nlab.org/?page_id=156"
