@@ -4,38 +4,12 @@ import {
   CardBody,
   CardFooter,
   Image,
-  useDisclosure,
 } from "@nextui-org/react";
-import React, { useState } from "react";
-import ECPASModal from "./ECPASModal";
-import NexModal from "./NexModal";
-import ECModal from "./ECModal";
-import WeatherModal from "./WeatherModal";
+import React from "react";
+
+import Link from "next/link";
 
 const Work = () => {
-  const [activeModal, setActiveModal] = useState(0);
-  const { isOpen, onOpen, onOpenChange } = useDisclosure();
-
-  const handleCardClick = (id: number) => {
-    setActiveModal(id);
-    onOpen();
-  };
-
-  const renderActiveModal = () => {
-    switch (activeModal) {
-      case 1:
-        return <ECPASModal isOpen={isOpen} onOpenChange={onOpenChange} />;
-      case 2:
-        return <NexModal isOpen={isOpen} onOpenChange={onOpenChange} />;
-      case 3:
-        return <ECModal isOpen={isOpen} onOpenChange={onOpenChange} />;
-      case 4:
-        return <WeatherModal isOpen={isOpen} onOpenChange={onOpenChange} />;
-      default:
-        return null;
-    }
-  };
-
   const list = [
     {
       id: 1,
@@ -63,29 +37,31 @@ const Work = () => {
     <div>
       <div className="gap-2 grid grid-cols-2 sm:grid-cols-4 mt-4">
         {list.map((item, index) => (
-          <Card
-            shadow="sm"
-            key={index}
-            isPressable
-            onPress={() => handleCardClick(item.id)}
-          >
-            <CardBody className="overflow-visible p-0">
-              <Image
-                shadow="sm"
-                radius="lg"
-                width="100%"
-                alt={item.title}
-                className="w-full object-cover"
-                src={item.img}
-              />
-            </CardBody>
-            <CardFooter className="text-large justify-between">
-              <b>{item.title}</b>
-            </CardFooter>
-          </Card>
+          <Link href={`/works/${item.id}`} key={index}>
+            <Card
+              shadow="sm"
+              key={index}
+              isPressable
+              
+            >
+              <CardBody className="overflow-visible p-0">
+                <Image
+                  shadow="sm"
+                  radius="lg"
+                  width="100%"
+                  alt={item.title}
+                  className="w-full object-cover"
+                  src={item.img}
+                />
+              </CardBody>
+              <CardFooter className="text-large justify-between">
+                <b>{item.title}</b>
+              </CardFooter>
+            </Card>
+          </Link>
         ))}
       </div>
-      {renderActiveModal()}
+      
     </div>
   );
 };

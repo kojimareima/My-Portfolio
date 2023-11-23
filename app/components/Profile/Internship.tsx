@@ -7,41 +7,56 @@ const Internship = () => {
     <div className="container mx-auto px-4 sm:px-6 lg:px-8">
       <div className="text-3xl font-bold mt-4">Internship</div>
       <Accordion>
-        <AccordionItem key="1" aria-label="Accordion 1" title="ASKUL">
+        <AccordionItem key="1" aria-label="Accordion 1" title="みずほ工業株式会社">
           <div className="text-xl font-semibold">概要:</div>
           <p>
-            2週間、ECサイトのフロントエンド開発に携わり、特にスマートフォン用の検索結果ページにおいて、価格やカテゴリで商品をフィルタリングする機能を持つモーダルウィンドウの開発を担当しました。
+            高校生という建築にかかわる仕事に関して全く知らなかった段階において、多くの現場を見学し、積算などの業務にも少しであるが経験を積むことができた。
           </p>
           <div className="text-xl mt-5 font-semibold">苦労した点:</div>
           <p>
-            初めて、大規模なプロジェクトに参加して、大規模なプログラムを解読して、修正箇所を特定することが一番苦労しました。メンターの方に積極的に質問することで、プログラムの全体像を理解することができて、解決することができました。
+            初めて、建築にかかわる業務を肌で感じ、多くの人が携わって完成される建築物を作るという大変さを感じ、工程の管理や金額の管理を実際にして苦労した。
           </p>
           <div className="text-xl mt-5 font-semibold">得られたもの:</div>
           <p>
-            この経験を通じて、報酬を受け取りながらエンジニアとしての実務経験を積むことができました。特に、エンジニアとしての業務プロセスや、大規模なプログラムの理解と読解スキルを養うことができたのは大きな収穫です。
+            この経験を通じて、人々が普段使用している建築物には多くの人が携わり、その結晶として成り立っていることを知れたことが一番大きな得られたものである。
           </p>
           <div className="text-xl mt-5 font-semibold">使用技術:</div>
-          <p>TypeScript, Spring Boot, Thymeleaf, Kotlin, AWS, Docker, Git.</p>
+          
         </AccordionItem>
-        <AccordionItem key="2" aria-label="Accordion 2" title="Intage">
+        <AccordionItem key="2" aria-label="Accordion 2" title="株式会社五井建築研究所">
           <div className="text-xl font-semibold">概要:</div>
           <p>
-            3日間にわたり、商品価格の予測モデルを作成するプロジェクトに取り組みました。提供された商品データセットを基に、ニューラルネットワークを使用してモデルを構築し、約20円の誤差範囲で未知のデータを予測できる成果を得ました。
+            5日間にわたり、五井建築研究所が設計した学校建築の模型を製作するとともに、最後の1日に実際に施工が進行している現場に見学し、監理者として現場で行う業務を見学した。
           </p>
           <div className="text-xl mt-5 font-semibold">苦労した点:</div>
           <p>
-            データセットのクレンジング(破損したデータ、不正確なデータ、無関係のデータを特定して解決する手法)作業に最も苦労しました。多くの欠損値と、商品価格予測において不要と思われるパラメータが含まれていました。データセットがそもそも大規模ではなかったため、欠損値をデータ全体の平均値で補完し、相関分析を行って価格予測に重要なパラメータを選定することで、これらの問題に対処しました。
+            学校で製作する模型とは違い、お客さんのために制作する模型の精密さや締め切りとの兼ね合いを見ながら業務を行うことが一番苦労した点である。
           </p>
           <div className="text-xl mt-5 font-semibold">得られたもの:</div>
           <p>
-            機械学習は授業などでしか使ったことがなかったが、実際のデータセットでモデルを構築する経験ができました。
+            苦労した点を解決しながら作業を行っていくことで組織設計事務所で働くことのやりがいを知れたことが一番得られたものである。
           </p>
           <div className="text-xl mt-5 font-semibold">使用技術:</div>
-          <p>Python, PyTorch.</p>
         </AccordionItem>
-        <AccordionItem key="3" aria-label="Accordion 3" title="HRBrain">
-          2050年の労働人口不足問題をHR&技術を使って解決する課題に取り組みました。
+        <AccordionItem key="3" aria-label="Accordion 1" title="金沢計画研究所">
+          <div className="text-xl font-semibold">概要:</div>
+          <p>
+            今迄のインターンでは経験することができなかった３Ⅾモデルの制作を2週間ほど学業と並行しながら行った。
+          </p>
+          <div className="text-xl mt-5 font-semibold">苦労した点:</div>
+          <p>
+            SketchUpで３Ⅾモデルを製作したが、新しいツールを使って複雑な屋根を制作したがそのツールを使いこなすまで時間がかかった点が苦労した点である。
+          </p>
+          <div className="text-xl mt-5 font-semibold">得られたもの:</div>
+          <p>
+          SketchUpでお客様に提案するためのモデルを制作する時間との兼ね合いを考えながら作業する業務のスピード感を考えて作業する体験をできたことが一番得られたものである。
+          </p>
+          <div className="text-xl mt-5 font-semibold">使用技術:</div>
+          <p>
+          SketchUp
+          </p>
         </AccordionItem>
+        
       </Accordion>
     </div>
   );
