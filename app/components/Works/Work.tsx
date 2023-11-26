@@ -13,24 +13,35 @@ const Work = () => {
   const list = [
     {
       id: 1,
-      title: "価格監査システム",
+      title: "カフェ課題",
       img: "/ECPAS.png",
     },
     {
       id: 2,
-      title: "Nex: ゲーム専用掲示板",
+      title: "幼稚園課題",
       img: "/nex.png",
     },
     {
       id: 3,
-      title: "ECサイト構築",
+      title: "ゲストハウス課題",
       img: "/ECsite.png",
     },
     {
       id: 4,
-      title: "Weather Remind Tool",
+      title: "シティプラザ課題",
       img: "/WhetherRemind.png",
     },
+    {
+      id: 5,
+      title: "卒業設計",
+      img: "/WhetherRemind.png",
+    },
+    {
+      id: 6,
+      title: "大学院設計課題",
+      img: "/WhetherRemind.png",
+    },
+    
   ];
 
   return (

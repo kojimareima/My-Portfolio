@@ -42,7 +42,7 @@ const Skill = () => {
                     isExternal
                   >
                     <Image
-                      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+                      src="https://cad-kenkyujo.com/img/category/jwcad/img_overview_logo.png"
                       alt="javascript"
                       width={15}
                       radius="none"
@@ -60,7 +60,7 @@ const Skill = () => {
                 <TableCell className="flex items-center">
                   <Link href="https://www.typescriptlang.org/" isExternal>
                     <Image
-                      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+                      src="https://w7.pngwing.com/pngs/193/337/png-transparent-archicad-macos-bigsur-icon.png"
                       alt="typescript"
                       width={15}
                       radius="none"
@@ -78,7 +78,7 @@ const Skill = () => {
                 <TableCell className="flex items-center">
                   <Link href="https://soliditylang.org/" isExternal>
                     <Image
-                      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg"
+                      src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"
                       alt="solidity"
                       width={15}
                       radius="none"
@@ -96,7 +96,7 @@ const Skill = () => {
                 <TableCell className="flex items-center">
                   <Link href="https://www.python.org/" isExternal>
                     <Image
-                      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+                      src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg"
                       alt="python"
                       width={15}
                       radius="none"
@@ -114,7 +114,7 @@ const Skill = () => {
                 <TableCell className="flex items-center">
                   <Link href="https://www.ruby-lang.org/" isExternal>
                     <Image
-                      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
+                      src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sketchup-icon.png"
                       alt="ruby"
                       width={15}
                       radius="none"
@@ -135,7 +135,7 @@ const Skill = () => {
                     isExternal
                   >
                     <Image
-                      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+                      src="https://archi-softs.com/wp-content/uploads/2020/01/Rhinoceros-940x940.png"
                       alt="c-lang"
                       width={15}
                       radius="none"
@@ -156,7 +156,7 @@ const Skill = () => {
                     isExternal
                   >
                     <Image
-                      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+                      src="https://www.imaginit.com/Portals/4/ImageCache/ProductDetails/twinmotion-128px-hd.png"
                       alt="html5"
                       width={15}
                       radius="none"
@@ -177,7 +177,7 @@ const Skill = () => {
                     isExternal
                   >
                     <Image
-                      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+                      src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg"
                       alt="css3"
                       width={15}
                       radius="none"
@@ -216,7 +216,7 @@ const Skill = () => {
                     isExternal
                   >
                     <Image
-                      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+                      src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg"
                       alt="c-lang"
                       width={15}
                       radius="none"
@@ -257,7 +257,7 @@ const Skill = () => {
                 <TableCell className="flex items-center">
                   <Link href="https://www.linux.org/" isExternal>
                     <Image
-                      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+                      src="https://icons.veryicon.com/png/o/miscellaneous/ecological-desktop-icon-library/test1.png"
                       alt="Linux"
                       width={15}
                       radius="none"
@@ -274,7 +274,7 @@ const Skill = () => {
                 <TableCell className="flex items-center">
                   <Link href="https://nodejs.org/" isExternal>
                     <Image
-                      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+                      src="https://simple-icons.com/i/icon_10144/icon_10144_svg_s1.svg"
                       alt="Node.js"
                       width={15}
                       radius="none"
@@ -292,7 +292,7 @@ const Skill = () => {
                 <TableCell className="flex items-center">
                   <Link href="https://reactjs.org/" isExternal>
                     <Image
-                      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+                      src="https://simple-icons.com/i/icon_10144/icon_10144_svg_s1.svg"
                       alt="React"
                       width={15}
                       radius="none"
@@ -309,7 +309,7 @@ const Skill = () => {
                 <TableCell className="flex items-center">
                   <Link href="https://reactjs.org/" isExternal>
                     <Image
-                      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+                      src="https://icons.veryicon.com/png/o/miscellaneous/ecological-desktop-icon-library/test1.png"
                       alt="React"
                       width={15}
                       radius="none"
@@ -326,7 +326,7 @@ const Skill = () => {
                 <TableCell className="flex items-center">
                   <Link href="https://nextjs.org/" isExternal>
                     <Image
-                      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+                      src="https://icons.veryicon.com/png/o/miscellaneous/ecological-desktop-icon-library/test1.png"
                       alt="Next.js"
                       width={15}
                       radius="none"
@@ -343,7 +343,7 @@ const Skill = () => {
                 <TableCell className="flex items-center">
                   <Link href="https://rubyonrails.org/" isExternal>
                     <Image
-                      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg"
+                      src="https://simple-icons.com/i/icon_10144/icon_10144_svg_s1.svg"
                       alt="Rails"
                       width={15}
                       radius="none"
@@ -360,7 +360,7 @@ const Skill = () => {
                 <TableCell className="flex items-center">
                   <Link href="https://www.postgresql.org/" isExternal>
                     <Image
-                      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+                      src="https://icons.veryicon.com/png/o/miscellaneous/ecological-desktop-icon-library/test1.png"
                       alt="PostgreSQL"
                       width={15}
                       radius="none"
@@ -377,7 +377,7 @@ const Skill = () => {
                 <TableCell className="flex items-center">
                   <Link href="https://www.mongodb.com/" isExternal>
                     <Image
-                      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+                      src="https://simple-icons.com/i/icon_10144/icon_10144_svg_s1.svg"
                       alt="MongoDB"
                       width={15}
                       radius="none"
@@ -413,7 +413,7 @@ const Skill = () => {
                 <TableCell className="flex items-center">
                   <Link href="https://git-scm.com/" isExternal>
                     <Image
-                      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+                      src="https://www.sanwakensho.co.jp/recruit/assets/img/mid-career_recruitment/tour/icon_visit.svg"
                       alt="Git"
                       width={15}
                       radius="none"
@@ -431,7 +431,7 @@ const Skill = () => {
                 <TableCell className="flex items-center">
                   <Link href="https://www.docker.com/" isExternal>
                     <Image
-                      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+                      src="https://www.sanwakensho.co.jp/recruit/assets/img/mid-career_recruitment/tour/icon_visit.svg"
                       alt="Docker"
                       width={15}
                       radius="none"
@@ -449,7 +449,7 @@ const Skill = () => {
                 <TableCell className="flex items-center">
                   <Link href="https://aws.amazon.com/" isExternal>
                     <Image
-                      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+                      src="https://previews.123rf.com/images/vilisov/vilisov1502/vilisov150200064/37043690-%E3%83%AF%E3%83%BC%E3%82%AF-%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%80%8D%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%80%82%E6%A6%82%E5%BF%B5%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%9C%E3%83%AB.jpg"
                       alt="AWS"
                       width={15}
                       radius="none"
@@ -467,7 +467,7 @@ const Skill = () => {
                 <TableCell className="flex items-center">
                   <Link href="https://slack.com/" isExternal>
                     <Image
-                      src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg"
+                      src="https://assets-eu-01.kc-usercontent.com/8ff24b0e-57a3-0157-62d1-fa4ac9734eb5/5b17a351-e36b-46c7-9b94-28b49ce566e8/icon-3d-printer.svg?w=2048&q=90&lossless=true&auto=format"
                       alt="Slack"
                       width={15}
                       radius="none"
@@ -485,7 +485,7 @@ const Skill = () => {
                 <TableCell className="flex items-center">
                   <Link href="https://www.docker.com/" isExternal>
                     <Image
-                      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+                      src="https://assets-eu-01.kc-usercontent.com/8ff24b0e-57a3-0157-62d1-fa4ac9734eb5/5b17a351-e36b-46c7-9b94-28b49ce566e8/icon-3d-printer.svg?w=2048&q=90&lossless=true&auto=format"
                       alt="Docker"
                       width={15}
                       radius="none"
