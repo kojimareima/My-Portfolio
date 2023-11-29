@@ -2,23 +2,21 @@
     {
       "id": "1",
       "name": "カフェ課題",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "description": "この課題は学部２年の時であり、初公共建築物の設計課題である。敷地は金沢２１世紀美術館に隣接するとともに交差点の角地で、周囲に金沢城、しいのき迎賓館と観光客の多いアリアである。金沢２１世紀美術館設計は様々な方向からアクセスできるように設計されていることを考慮して、私が設計したカフェが壁としてそびえたつことがないように視界が通るようにし、人の通り抜けもできるようにした。またシンプルな四角の集合体であるが、各空間の外壁にはコンクリート打ち放しと木材の併用として光の入り方に多様性を生み出した。",
       "images": [
-        "/sample1.png",
-        "/sample.png",
-        "/sample.png",
-        "/sample.png",
-        "/sample.png",
-        "/sample.png",
-        "/sample.png",
-        "/sample.png",
-        "/sample.png"
+        "/cafe paper.png",
+        "/cafe1.png",
+        "/cafe2.png",
+        "/cafe3.png",
+        "/cafe4.png",
+        "/cafe5.png",
+        "/cafe6.png"
       ]
     },
     {
       "id": "2",
       "name": "幼稚園課題",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "description": "この課題は２級建築士製図試験後の設計であり、製図試験で押さえつけられていた設計意欲を爆発させた幼稚園である。隣接する川から建物中央に水を引くとともに緑豊かな幼稚園を設計し、雨の多い金沢で雨の日も思う存分走り回れるように建築物自体も周遊性をもたせ、かつガラスの大屋根を設計した。このガラスの大屋根は川側を低くし、町側を高くすることで町に開かれた用地円を設計した。",
       "images": [
         "/children00.png",
         "/children11.png",
@@ -28,7 +26,7 @@
     {
       "id": "3",
       "name": "ゲストハウス課題",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "description": "この敷地は金沢市の中心に近い敷地で多くの高層建築に囲まれ、圧迫感のある敷地である。そのため私はこのゲストハウスでは圧迫感を感じさせず、のんびりと快適に過ごしてもらうゲストハウスを設計した。圧迫感を感じさせないために私は２回以上に大きな中庭を２つ設置と吹き抜けを多く設けて圧迫感を軽減するとともに外観を気のルーバーに囲うことで鳥かごのような囲まれている外観にして安心感を生み出して快適性を確保する計画とした。",
       "images": [
         "/guesthouse00.png",
         "/guesthouse11.png",
@@ -39,7 +37,7 @@
     {
       "id": "4",
       "name": "シティープラザ課題",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "description": "この敷地は公園に隣接し、三方向を緑で囲まれた快適な空間であるが、この一角に関しては暗く、湿り気のある空間であった。そのため私は公園の一部として通りぬけを行えるように設計するとともに、緑豊かな複合施設を設計した。また建築物のボリュームも公園側を低くし、道路側は高層建築物が立っているのでボリュームを高くして公園との一体感を高めるとともに圧迫感を与えないように設計した。また通りぬけができるように設計した結果各機能に合わせて分棟のようにしたが、複合施設としての職員動線やセキュリティーもしっかりできるように計画した。",
       "images": [
         "/kanazawapark question.png",
         "/kanazawapark question2.png",
@@ -53,7 +51,7 @@
     {
       "id": "5",
       "name": "卒業設計",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "description": "この設計は水がなければいければ生きていけない人が津波などの水による被害を受けて水との距離感が離れてしまった問題を解決するために新しい水と人と空間の関係を築けるように計画案である。計画案の概要は自然界に存在する水の循環の一部分に人々が活動するの合間に休憩する空間を計画した。人々と水の距離を縮めるために私は水を主役に考え空間は水より誇張しないように極力自然に寄り添うような空間を配置した。そして各休憩所には様々な水の変化した形態を楽しむことができ、水と共に生きていることを実感できるようにした。そしてこの新しい水と人と空間の関係がSNSで拡散されることで観光客が増えて地域が活性化することも含めて設計した。",
       "images": [
         "/rakusuikyou1.png",
         "/rakusuikyou2.png",
@@ -67,19 +65,17 @@
       ]
     },
     {
-      "id": "5",
+      "id": "6",
       "name": "大学院設計課題",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "description": "この課題は大学院生４人グループによるグループ設計である。敷地は現在水野一郎氏が設計した野々市市駅と隣接する野々市市交遊舎がたてられている敷地で実際に野々市市役所の職員の方たちと敷地の現状を見て、野々市市役所の意向を実際に聞いて設計を行う、より現実味のある設計課題である。私たちは最近無人駅に変わった駅で実際に自分たちでアンケートに協力してもらった結果からの問題点として駅舎や野々市市交遊舎にとどまる人が極端に少ない点を挙げて、この問題点を改善するために設計した建築物が駅利用者にとって居場所になる新しい野々市市交遊舎の機能を持った駅舎を設計した。",
       "images": [
-        "/sample.png",
-        "/sample.png",
-        "/sample.png",
-        "/sample.png",
-        "/sample.png",
-        "/sample.png",
-        "/sample.png",
-        "/sample.png",
-        "/sample.png"
+        "/mojyuru1.png",
+        "/mojyurumain11.png",
+        "/mojyuru3.png",
+        "/mojyuru4.png",
+        "/mojyuru5.png",
+        "/mojyuruflat22.png",
+        "/mojyurucross33.png"
       ]
     }
   ]

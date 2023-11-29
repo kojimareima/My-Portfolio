@@ -13,33 +13,33 @@ const Work = () => {
   const list = [
     {
       id: 1,
-      title: "カフェ課題",
-      img: "/ECPAS.png",
+      title: "カフェ課題(学内2位)",
+      img: "/cafeicon.jpg",
     },
     {
       id: 2,
-      title: "幼稚園課題",
-      img: "/nex.png",
+      title: "幼稚園課題(学内5位)",
+      img: "/childrenicon22.png",
     },
     {
       id: 3,
-      title: "ゲストハウス課題",
-      img: "/ECsite.png",
+      title: "ゲストハウス課題(学内1位)",
+      img: "/guesthouseicon.jpg",
     },
     {
       id: 4,
-      title: "シティプラザ課題",
-      img: "/WhetherRemind.png",
+      title: "シティプラザ課題(学内1位)",
+      img: "/cityplaza22.png",
     },
     {
       id: 5,
       title: "卒業設計",
-      img: "/WhetherRemind.png",
+      img: "/rakusuikyou22.png",
     },
     {
       id: 6,
       title: "大学院設計課題",
-      img: "/WhetherRemind.png",
+      img: "/mojyuruicon111.jpg",
     },
     
   ];
