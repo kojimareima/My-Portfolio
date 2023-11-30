@@ -73,15 +73,24 @@ const Career = () => {
               </CardBody>
             </Card>
           </Tab>
-          <Tab key="junior" title="中学">
+          <Tab key="junior" title="趣味">
             <Card>
               <CardBody>
-                <div className="text-2xl font-bold">学校名</div>
-                <div>金沢市立金石中学校&nbsp;2013年4月〜2016年3月</div>
+                <div className="text-2xl font-bold">趣味</div>
+                <div>サッカー、バイク、筋トレ、旅行&nbsp;</div>
                 <div className="text-2xl font-bold mt-5">活動</div>
                 <div>
-                  中学ではサッカーのクラブチームに所属し、週6日で練習に励んだ。
+                  中学ではサッカーのクラブチームに所属し、週6日で練習に励んだ。大学に入学してから中型及び大型のバイク免許を取得してバイクを乗りながら風景を楽しむ趣味ができた。
+                  筋トレは一番自分の目で見て成果がわかるので一回一回のトレーニングが楽しく、時間があれば取り組んでいる。旅行は建築を学ぶなかで様々な件に弾丸旅行に行く楽しさを知り、コロナ明けからよく旅行に行っている。
+                  
                 </div>
+                <Image
+                  alt="Card background"
+                  width={300}
+                  src="hobby12.png"
+                  className="mt-3"
+                />
+                  
               </CardBody>
             </Card>
           </Tab>

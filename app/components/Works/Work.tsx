@@ -14,32 +14,32 @@ const Work = () => {
     {
       id: 1,
       title: "カフェ課題(学内2位)",
-      img: "/cafeicon.jpg",
+      img: "/cafeicon123.png",
     },
     {
       id: 2,
       title: "幼稚園課題(学内5位)",
-      img: "/childrenicon22.png",
+      img: "/childrenicon123.png",
     },
     {
       id: 3,
       title: "ゲストハウス課題(学内1位)",
-      img: "/guesthouseicon.jpg",
+      img: "/guesthouseicon123.png",
     },
     {
       id: 4,
       title: "シティプラザ課題(学内1位)",
-      img: "/cityplaza22.png",
+      img: "/cityplazaicon123.png",
     },
     {
       id: 5,
       title: "卒業設計",
-      img: "/rakusuikyou22.png",
+      img: "/rakusuikyouivon123.png",
     },
     {
       id: 6,
       title: "大学院設計課題",
-      img: "/mojyuruicon111.jpg",
+      img: "/mojyuruicon123.png",
     },
     
   ];
