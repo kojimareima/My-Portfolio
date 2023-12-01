@@ -8,10 +8,7 @@ import {
   NavbarMenuItem,
   NavbarMenuToggle,
 } from "@nextui-org/react";
-import { SiGithub } from "react-icons/si";
-import { SiQiita } from "react-icons/si";
 import { AiFillMail } from "react-icons/ai";
-import LinkDropdown from "./LinkDropdown";
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = React.useState(false);
@@ -49,21 +46,8 @@ const Header = () => {
             Contact
           </Link>
         </NavbarItem>
-        <NavbarItem>
-          <LinkDropdown />
-        </NavbarItem>
       </NavbarContent>
       <NavbarContent justify="end" className="mt-2">
-        <NavbarItem>
-          <Link isExternal href="https://github.com/toshiki-git">
-            <SiGithub size={20} color="white" />
-          </Link>
-        </NavbarItem>
-        <NavbarItem>
-          <Link isExternal href="https://qiita.com/takakubo_toshiki">
-            <SiQiita size={35} color="white" />
-          </Link>
-        </NavbarItem>
         <NavbarItem>
           <Link href="/contact">
             <AiFillMail size={20} color="white" />
